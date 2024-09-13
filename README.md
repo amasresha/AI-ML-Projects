@@ -8,7 +8,7 @@ In this repository, you'll find links to individual project repositories. Each p
 
 ## Projects
 
-- **[Customer Churn Prediction](https://github.com/your-username/Customer-Churn-Prediction)**  
+- **[Customer Churn Prediction](https://github.com/amasresha/Bank_Churn_Prediction)**
   Predicting customer churn using machine learning techniques. This project aims to identify customers who are likely to leave the bank in the near future.
 
 ## Getting Started

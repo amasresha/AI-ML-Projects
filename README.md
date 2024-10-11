@@ -10,6 +10,10 @@ In this repository, you'll find links to individual project repositories. Each p
 
 - **[Customer Churn Prediction](https://github.com/amasresha/Bank_Churn_Prediction)**
   Predicting customer churn using machine learning techniques. This project aims to identify customers who are likely to leave the bank in the near future.
+- **[Plant Seedlings Classification](https://github.com/amasresha/Plant-Seedlings-Classification)**
+  Develop an image-based classifier to accurately identify and categorize plant seedlings into 12 distinct species.
+
+
 
 ## Getting Started
 

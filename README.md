@@ -12,7 +12,7 @@ In this repository, you'll find links to individual project repositories. Each p
   Predicting customer churn using machine learning techniques. This project aims to identify customers who are likely to leave the bank in the near future.
 - **[Plant Seedlings Classification](https://github.com/amasresha/Plant-Seedlings-Classification)**
   Develop an image-based classifier to accurately identify and categorize plant seedlings into 12 distinct species.
-  - **[AllLife-Bank-Personal-Loan-Campaign](https://github.com/amasresha/AllLife-Bank-Personal-Loan-Campaign)**
+- **[AllLife-Bank-Personal-Loan-Campaign](https://github.com/amasresha/AllLife-Bank-Personal-Loan-Campaign)**
   Predict which liability customers are likely to purchase personal loans, identify the key customer attributes influencing these decisions, and target the most promising customer segments.
 ## Getting Started
 

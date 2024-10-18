@@ -14,6 +14,9 @@ In this repository, you'll find links to individual project repositories. Each p
   Develop an image-based classifier to accurately identify and categorize plant seedlings into 12 distinct species.
 - **[AllLife-Bank-Personal-Loan-Campaign](https://github.com/amasresha/AllLife-Bank-Personal-Loan-Campaign)**
   Predict which liability customers are likely to purchase personal loans, identify the key customer attributes influencing these decisions, and target the most promising customer segments.
+- **[Credit-Card-Users-Churn-Prediction](https://github.com/amasresha/Credit-Card-Users-Churn-Prediction)**
+  Predict which customers are likely to stop using their credit cards and identify the key factors contributing to churn, enabling Thera Bank to take proactive measures to retain customers.
+  
 ## Getting Started
 
 1. **Clone the Repository**  

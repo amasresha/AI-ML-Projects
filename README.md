@@ -1,10 +1,6 @@
 # AI/ML Projects
 
-Welcome to my collection of AI and ML projects! This repository serves as a central hub for all my work in artificial intelligence and machine learning across various industries.
-
-## Overview
-
-In this repository, you'll find links to individual project repositories. Each project showcases different aspects of AI and ML, from predictive modeling to computer vision and natural language processing.
+Welcome to my collection of AI and ML projects! This repository is a central hub for some of my work in artificial intelligence and machine learning across various industries.
 
 ## Projects
 
@@ -23,5 +19,4 @@ In this repository, you'll find links to individual project repositories. Each p
    To get started with any of the projects, clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/AI-ML-Projects.git
-# AI-ML-Projects
-A collection of my AI/ML projects across various industries
+

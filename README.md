@@ -12,7 +12,10 @@ Welcome to my collection of AI and ML projects! This repository is a central hub
   Predict which liability customers are likely to purchase personal loans, identify the key customer attributes influencing these decisions, and target the most promising customer segments.
 - **[Credit-Card-Users-Churn-Prediction](https://github.com/amasresha/Credit-Card-Users-Churn-Prediction)**
   Predict which customers are likely to stop using their credit cards and identify the key factors contributing to churn, enabling Thera Bank to take proactive measures to retain customers.
-  
+-  **[
+-  **[NLP-Stock-Market-News-Sentiment-Analysis-and-Summarization](https://github.com/amasresha/NLP-Stock-Market-News-Sentiment-Analysis-and-Summarization))**
+  Develop an AI system to analyze stock news, gauge market sentiment, and provide weekly insights to enhance stock predictions and investment strategies.
+
 ## Getting Started
 
 1. **Clone the Repository**  

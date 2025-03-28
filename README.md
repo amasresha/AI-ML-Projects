@@ -31,6 +31,8 @@ Welcome to my collection of AI and ML projects! This repository is a central hub
 -  **[MLops-Automation](https://github.com/amasresha/mlops-automation)**
  MLOps pipeline demonstrating Continuous Integration and Continuous Deployment (CI/CD) for a machine learning application.
 
+-  **[Enterprise-Policy-AI-Chatbot-RAG-Powered-QA-System-with-LangChain-Agents-LLM-Optimization](https://github.com/amasresha/Enterprise-Policy-AI-Chatbot-RAG-Powered-QA-System-with-LangChain-Agents-LLM-Optimization)**
+ A document intelligence assistant that uses RAG architecture with LangChain agents to analyze, query, and summarize any provided text documents through conversational interactions.
 
 ## Getting Started
 

@@ -34,6 +34,9 @@ Welcome to my collection of AI and ML projects! This repository is a central hub
 -  **[Enterprise-Policy-AI-Chatbot-RAG-Powered-QA-System-with-LangChain-Agents-LLM-Optimization](https://github.com/amasresha/Enterprise-Policy-AI-Chatbot-RAG-Powered-QA-System-with-LangChain-Agents-LLM-Optimization)**
  A document intelligence assistant that uses RAG architecture with LangChain agents to analyze, query, and summarize any provided text documents through conversational interactions.
 
+-  **[Testing-Generative-AI](https://github.com/amasresha/generative-ai-testing)**
+ A lightweight testing framework for evaluating generative AI systems with functional, bias, quality, performance, and load tests.
+
 ## Getting Started
 
 1. **Clone the Repository**  
